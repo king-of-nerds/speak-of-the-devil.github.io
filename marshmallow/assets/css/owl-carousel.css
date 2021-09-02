@@ -5,7 +5,14 @@
  */
 /*
  *  Owl Carousel - Core
+
  */
+ .mlogo{
+  position: relative;
+  width: 83px;
+  height: 82px;
+ float: left;
+ }
 .owl-carousel {
   display: none;
   width: 100%;
